@@ -9,7 +9,7 @@
 
 ## Server info
 
-It runs as a [forever-service](https://github.com/zapty/forever-service) with [nodemon](https://github.com/remy/nodemon) called `raml`.
+It runs as a [forever-service](https://github.com/zapty/forever-service) with [nodemon](https://github.com/remy/nodemon) called `leapjs-network`.
 
 Here's the command to install the service:
 
